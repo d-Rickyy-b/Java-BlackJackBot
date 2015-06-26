@@ -1,0 +1,18 @@
+String[][] strings = {{"Du musst zuerst ein Spiel starten 😉","You first need to start a game 😉"}, 
+						{"Du hast doch schon ein aktives Spiel 😕","You still have an active game running 😕"},
+						{"Ich habe ein neues Spiel begonnen. 😕","You still have an active game 😕"},
+						{"Dein Spiel wurde beendet! 😉","The Game has been ended. 😉"},
+						{"Der Croupier gewinnt, da er einen BlackJack hat.", "The Croupier wins, because he's got a BlackJack."}, //4
+						{"Der Croupier gewinnt, er ist mit %s Punkten näher an 21.", "The Croupier wins, because he's with %s points closer to 21."},
+						{"Oh nein 😔, leider hast du zu viele Punkte! Damit gewinnt der Croupier.\nMit /start kannst du ein neues Spiel beginnen", "Oh no 😔, you have too many points! The Croupier wins.\nWith /start you can start another round."},
+						{"Super ☺, du hast einen BlackJack! Damit gewinnst du!","Wow ☺, you got a BlackJack! You won this round!"},
+						{" gezogen.\nDein Kartenwert: "," drawn.\nYour current value: "},
+						{"Croupier hat %s gezogen.","Croupier drew %s"},
+						{"Ich habe ein neues Spiel begonnen. 🃏", "I started a new game. 🃏"}, //10
+						{"Du gewinnst 🎊, du bist mit %s Punkten näher an 21.","You win 🎊, you're with %s points closer to 21."},
+						{"Du gewinnst 🎊, da der Croupier gebustet hat (","You win 🎊, because the Croupier busted ("},
+						{"Du musst zuerst ein Spiel starten 😉","You first have to /start a game 😉"},
+						{"Croupier hat %s gezogen.\nCroupier's Kartenwert: %s","Croupier drew %s.\nCroupier's cardvalues: %s"},
+						{answerKeyboard,answerKeyboard_en}, //15
+						{"Diesen Befehl kenne ich nicht 😔","I don't know that command 😔"},
+						{"",""}}; 
