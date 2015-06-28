@@ -1,5 +1,5 @@
 EXAMPLE: 	String[] test = {"String_de", "String_en"}; <-- This is, how it looks at the Moment
-			String[] test = {"String_de","String_en","String_YourLanguage"}; <-- This is, how it should look, when you edited it!
+		String[] test = {"String_de","String_en","String_YourLanguage"}; <-- This is, how it should look, when you edited it!
 
 
 
